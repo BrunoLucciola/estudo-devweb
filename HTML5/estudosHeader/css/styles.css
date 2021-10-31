@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+body {
+  background: #f8f8f8;
+  color: #29292e;
+}
+
+.h1_estilizada {
+  font-size: 2rem;
+  font-family: 'Roboto', 'Arial',sans-serif;
+}
+
+#conteudo_do_paragrafo {
+  color: green;
+  font-size: 1.5rem;
+  font-family: 'Roboto', 'Arial',sans-serif;
+}
+
+#conteudo_do_paragrafo_diferente {
+  font-weight: bold;
+  color: #c22;
+  font-size: 1.5rem;
+  font-family: 'Roboto', 'Arial',sans-serif;
+}
+
+/*
+  -> . = classe
+  -> # = id
+  nome da tag
+  *
+*/
